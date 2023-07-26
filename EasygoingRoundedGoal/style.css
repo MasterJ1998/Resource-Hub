@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    font-family: Crete Round;
+    background-color:#EDE7B1;
+    color:#19180A;
+    
+}
+nav{
+    text-align:center;
+    color: #19180A;
+}
+
+
+h1 {
+    text-align:center;
+    font-size:75px;
+    font-weight: bolder;
+    color:#C05746;
+}
+
+h2 {
+    text-align: center;
+    font-size:30px;
+    font-weight: bolder;  
+    color:#4D2D52;
+}
+
+h3 {
+  text-align: center;
+    font-size:25px;
+    font-weight: bolder;  
+    color:#4D2D52;
+}
+
+main {
+    text-align:center;
+    font-family: Crete Round; 
+}
+
+a{
+    color:#C05746;
+}
+
+p1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: bolder;
+  color:#C05746;
+}
+
+p2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img {
+    height: 165px;
+}
