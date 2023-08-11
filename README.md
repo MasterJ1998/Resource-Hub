@@ -1,0 +1,91 @@
+# Resource-Hub<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Project 1</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <h1 id="top">Project 1</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#more">More</a></li>
+        <li><a href="#bottom">Bottom of Page</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Hi! My name is Jarren. This is where my resources for coding a website and food recipes will be available!! To
+      reach out to me, my email is: <a href="jarren.smith@ymail.com">jarren.smith@ymail.com</a></p>
+  </section>
+
+  <section id="resources">
+    <h3>Resources</h3>
+    <p>Everything listed below will help you code a website!</p>
+    <ul>
+      <li><a href="https://www.codecademy.com/learn" target="_blank">Codecademy</a><br>This site will teach you each
+        language of code to get you started.</li>
+      <li><a href="https://www.opcollege.org" target="_blank">Opportunity College</a><br>This course will be essential if
+        you want to build your skills, connections, and ensure success!</li>
+      <li><a href="https://coolors.co" target="_blank">coolors.co</a><br>This site will help you find the color schemes
+        for your website.</li>
+      <li><a href="https://fonts.google.com" target="_blank">Google Fonts</a><br>Your preferred fonts for the website.</li>
+    </ul>
+  </section>
+
+  <section id="more">
+    <h3>More</h3>
+    <article>
+      <h1>Hennessy BBQ Chicken Wings</h1>
+      <img src="https://www.carnaldish.com/wp-content/uploads/2016/10/hennywings_featured.jpg" alt="Chicken Wings">
+      <h2>Ingredients</h2>
+      <ul>
+        <li>8 chicken wings</li>
+        <li>6-7 Tbsp Vegetable oil for frying</li>
+                      <li>Water (To clean)</li>
+                      <li>1/2 cup White Vinegar</li>
+                      <li>1/3 cup Lime Juice</li>
+                      <li>1/3 cup Mustard</li>
+                      <li>Lemon Pepper</li>
+                      <li>Accent Flavor Enhancer</li>
+                      <li>Paprika</li>
+                      <li>Onion Powder</li>
+                      <li>Garlic Powder</li>
+                      <li>2 cups All Purpose Flour</li>
+                      <li>1/3 cup Barbeque Sauce(whatever fits your preference)</li>
+                      <li>1/4 cup Raw Honey</li>
+                      <li>1/4 cup Ketchup</li>
+                      <li>2 Tbsp Hennessy</li>
+      </ul>
+      <h2>Step By Step</h2>
+      <ol>
+        <li>Rinse the chicken wings in water and put them in a large bowl. Fill half the bowl with water, 1/2 cup of white vinegar, and 1/3 cup of lime juice. let it sit for 15-20 minutes.</li>
+                        <li>Pour vegetable oil in a large skillet and put stove on high. Once the oil has reaced 350 degrees, it's ready to fry the chicken. In the meantime, remove contents from bowl and dry chicken with paper towel. Clean the bowl and place chicken back in</li>
+                        <li>Pour the mustard, Lemon Pepper, Accent, Paprika, Onion Powder, and Garlic Powder into the bowl and mix it all up with the chicken</li>
+                        <li>In another bowl, pour the flour, plus more garlic powder. Mix them up before pouring the chicken into the flour mix. Combine all the contents in the bowl.</li>
+                        <li>Using tongs, carefully place each wing on the skillet. Let them all sit on one side for 15 minutes before flipping them over for another 10-15 minutes</li>
+                        <li>Make sure each wing is well done befure taking them out of the skillet onto a plate with a paper towel covering it</li>
+                        <li>With another skillet (or clean the skillet you just used) bring it to a medium heat. Pour the Barbeque sauce, Honey, and Ketchup into the skillet. Mix the contents and then pour the Hennessy. Mix some more and bring it to a simmer. </li>
+                        <li>Take the wings and pour them into the skillet using the tongs. Mix them up until each wing is covered in the sauce.</li>
+                        <li>Take the wings off the skillet to serve!</li>
+        
+      </ol>
+    </article>
+  </section>
+
+  <section id="bottom">
+    <p>It's time to eat!</p>
+    <h3><a href="#top">Go to top</a></h3>
+  </section>
+
+</body>
+
+</html>
